@@ -1,7 +1,7 @@
 #+TITLE:  Cursos de programación lógica con Prolog
 #+AUTHOR: José A. Alonso
 #+DATE:   26 de mayo de 2016
-
+ 
 En esta página se recopilan cursos de programación lógica con Prolog. Está
 ordenada por países y universidades.
 
